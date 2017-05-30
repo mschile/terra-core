@@ -2,21 +2,21 @@
 // ====================================================
 
 //
-$terra-title-font-size-tiny: 1.142rem !default;
-$terra-title-font-size-small: 1.142rem !default;
-$terra-title-font-size-medium: 1.285rem !default;
-$terra-title-font-size-large: 1.428rem !default;
-$terra-title-font-size-huge: 1.428rem !default;
+$terra-title-font-size-tiny: 1.142rem !default; // 15px
+$terra-title-font-size-small: 1.142rem !default; // 15px
+$terra-title-font-size-medium: 1.285rem !default; // 17px
+$terra-title-font-size-large: 1.428rem !default; // 19px
+$terra-title-font-size-huge: 1.428rem !default; // 19px
 
 //
 $terra-title-font-sizes: (
   small: (
-    '.terra-Title--tiny': 1.142,
-    '.terra-Title--small': 1.284,
-    '.terra-Title--medium': 1.428,
-    '.terra-Title--large': 1.714,
-    '.terra-Title--huge': 2.142
+    '.terra-Title--tiny': 1.142, // 15px
+    '.terra-Title--small': 1.284, // 17px
+    '.terra-Title--medium': 1.428, // 19px
+    '.terra-Title--large': 1.714, // 23px
+    '.terra-Title--huge': 2.142 // 29px
   )
-) !default;
+  ) !default;
 
 $terra-title-breakpoints: $terra-breakpoints !default;

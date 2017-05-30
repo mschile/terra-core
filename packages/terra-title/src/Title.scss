@@ -13,7 +13,7 @@
 
 .terra-Title--graphic,
 .terra-Title--heading {
-  @include terra-padding-end(0.428rem);
+  @include terra-padding-end(0.428rem); // 5px
 }
 
 .terra-Title--caption {
